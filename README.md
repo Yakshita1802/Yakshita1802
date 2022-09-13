@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yakshita</h1>
 <p align="left"> <a href="https://twitter.com/yakshita2595" target="blank"><img src="https://img.shields.io/twitter/follow/yakshita2595?logo=twitter&style=for-the-badge" alt="yakshita2595" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Master's in Computer Science**
 
 - 📫 How to reach me **ryb1802@gmail.com**
 
