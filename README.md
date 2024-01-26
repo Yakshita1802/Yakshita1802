@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yakshita</h1>
 <p align="left"> <a href="https://twitter.com/yakshita2595" target="blank"><img src="https://img.shields.io/twitter/follow/yakshita2595?logo=twitter&style=for-the-badge" alt="yakshita2595" /></a> </p>
 
-- 🌱 I’m currently learning **Master's in Computer Science**
+🌱 I’m currently pursuing a Master's in Computer Science at Pace University - Seidenberg School of Computer Science and Information Systems, USA.
 
-- 📫 How to reach me **ryb1802@gmail.com**
+GPA: 3.96/4.00
+📫 How to reach me: ryb1802@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
