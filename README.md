@@ -8,7 +8,7 @@ GPA: 3.96/4.00
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yakshita2595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yakshita2595" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/yakshitarakholiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yakshitarakholiya" height="30" width="40" /></a>
 
 </p>
